@@ -19,5 +19,5 @@ const userAge = 16
 
 console.log(`Name : ${username}`);
 console.log(`Age: ${userAge}`);
-console.log('user is a student');
+// console.log('user is a student');
 
