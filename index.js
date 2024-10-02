@@ -15,9 +15,14 @@
 // const andResult1 = '' && 'hello'
 // const orResult2 = '' || 'hello'
 const username = 'Aakrati'
-const userAge = 16
+const userAge = 20
 
 console.log(`Name : ${username}`);
 console.log(`Age: ${userAge}`);
+if( userAge <= 25 && userAge >= 18)
+{
+    console.log('user is a college student');
+    console.log('and learning cs');
+}
 // console.log('user is a student');
 
